@@ -1,1 +1,0 @@
-cd C:\Users\drant\.spyder-py3\DIP
