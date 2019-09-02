@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_set</folder>
+	<filename>sk-train2.jpg</filename>
+	<path>C:/Users/drant/.spyder-py3/DIP/train_set/sk-train2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sk2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>277</xmin>
+			<ymin>6</ymin>
+			<xmax>507</xmax>
+			<ymax>591</ymax>
+		</bndbox>
+	</object>
+</annotation>
