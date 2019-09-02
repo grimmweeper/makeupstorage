@@ -1,0 +1,7 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+sk-test1.jpg,1440,1080,sk2,472,21,909,970
+sk-test2.jpg,1440,1080,sk2,539,144,935,979
+sk-test3.jpg,800,600,sk2,272,44,510,578
+sk-test4.jpg,1440,1080,sk2,447,1,965,1008
+sk-test5.jpg,1440,1080,sk2,400,4,1086,1064
+sk-test6.jpg,1440,1080,sk2,480,8,939,1028
